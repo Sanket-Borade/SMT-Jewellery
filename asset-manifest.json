@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/SMT-Jewellery/static/css/main.2b4cd6f0.css",
-    "main.js": "/SMT-Jewellery/static/js/main.a9d7ad3c.js",
+    "main.js": "/SMT-Jewellery/static/js/main.2f6744ba.js",
     "static/js/787.b2afa0a7.chunk.js": "/SMT-Jewellery/static/js/787.b2afa0a7.chunk.js",
     "index.html": "/SMT-Jewellery/index.html",
     "main.2b4cd6f0.css.map": "/SMT-Jewellery/static/css/main.2b4cd6f0.css.map",
-    "main.a9d7ad3c.js.map": "/SMT-Jewellery/static/js/main.a9d7ad3c.js.map",
+    "main.2f6744ba.js.map": "/SMT-Jewellery/static/js/main.2f6744ba.js.map",
     "787.b2afa0a7.chunk.js.map": "/SMT-Jewellery/static/js/787.b2afa0a7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2b4cd6f0.css",
-    "static/js/main.a9d7ad3c.js"
+    "static/js/main.2f6744ba.js"
   ]
 }
